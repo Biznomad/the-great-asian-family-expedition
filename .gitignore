@@ -1,0 +1,10 @@
+# Media files (large)
+*.mp4
+*.wav
+*.png
+*.jpg
+*.jpeg
+*.webp
+
+# Output directories
+output/
