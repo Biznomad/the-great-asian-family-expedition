@@ -1,0 +1,42 @@
+[
+  {"country": "Vietnam", "picks": [
+    {"name": "The Pearl Hoi An — 5BR Pool Villa", "detail": "Sleeps 10 · pool + kitchen · near An Bang Beach", "price": "$535/nt"},
+    {"name": "Four Seasons The Nam Hai", "detail": "Every villa ground-level — Nana's gold standard", "price": "$2,850/nt"},
+    {"name": "Victoria Hoi An Beach Resort", "detail": "3 adjacent rooms · flat village-style grounds", "price": "$420/nt"}
+  ], "activities": [
+    {"name": "Red Bridge Cooking School", "price": "$35 pp"},
+    {"name": "Tra Que Herb Village", "price": "$26 pp"},
+    {"name": "Lantern-making workshop", "price": "$10 pp"},
+    {"name": "Basket boats, Bay Mau", "price": "$5 pp"}
+  ]},
+  {"country": "Cambodia", "picks": [
+    {"name": "Private 5BR Pool Villa, Siem Reap", "detail": "Whole house · sleeps 9+ · budget king", "price": "$320/nt"},
+    {"name": "Raffles Grand Hotel d'Angkor", "detail": "2BR Royal Villa + rooms · 1932 grande dame", "price": "$1,900/nt"},
+    {"name": "Sofitel Angkor Phokeethra", "detail": "3 rooms · Family Stay offer · flat resort", "price": "$600/nt"}
+  ], "activities": [
+    {"name": "Angkor Pass (official)", "price": "$37 pp"},
+    {"name": "Phare, the Cambodian Circus", "price": "$28 pp"},
+    {"name": "Accessible temple day service", "price": "$60 pp"},
+    {"name": "Angkor Thom moat gondola", "price": "$15 pp"}
+  ]},
+  {"country": "Thailand", "picks": [
+    {"name": "Natural Villas Riverside 5BR, Chiang Mai", "detail": "Full-time maid + gardener · THB 9,999 listed", "price": "$300/nt"},
+    {"name": "Shangri-La Bangkok", "detail": "Most scooter-friendly address on the river", "price": "$1,215/nt"},
+    {"name": "Somerset Ekamai (serviced apts)", "detail": "3BR + 1BR · full kitchens · best value", "price": "$320/nt"}
+  ], "activities": [
+    {"name": "Elephant Nature Park (ethical)", "price": "$75 pp"},
+    {"name": "Grand Palace + Emerald Buddha", "price": "$15 pp"},
+    {"name": "Chao Phraya dinner cruise", "price": "$33 pp"},
+    {"name": "Doi Suthep (funicular!)", "price": "$3 pp"}
+  ]},
+  {"country": "China", "picks": [
+    {"name": "Ascott Raffles City, Beijing", "detail": "263sqm 3BR apartment — one roof, one kitchen", "price": "$450/nt"},
+    {"name": "The Peninsula Beijing", "detail": "24 connecting pairs · walk to Forbidden City", "price": "$1,400/nt"},
+    {"name": "Toy Story Hotel, Shanghai Disney", "detail": "3 rooms · earliest park entry · free shuttle", "price": "$480/nt"}
+  ], "activities": [
+    {"name": "Mutianyu Wall — cable car + toboggan", "price": "$35 pp"},
+    {"name": "Shanghai Disneyland (Dec)", "price": "$84 pp"},
+    {"name": "Forbidden City (winter)", "price": "$6 pp"},
+    {"name": "Beijing Zoo panda house", "price": "$2 pp"}
+  ]}
+]

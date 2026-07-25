@@ -1,0 +1,223 @@
+{
+  "city": "Siem Reap",
+  "country": "Cambodia",
+  "properties": [
+    {
+      "name": "WR - Entire Pool Villa, Family Stay (Wat Bo village area)",
+      "type": "Private villa (entire home, 8BR)",
+      "tier": "comfort",
+      "sleeps": 16,
+      "nightly_usd": 440,
+      "rate_status": "listed (Vrbo average nightly; confirm exact Dec-Feb calendar rate)",
+      "fits_9": "8 bedrooms sleeping up to 16 — every couple gets a room, teens/kids get their own, plus spare rooms; whole-house privacy, private pool, free town pick-up; ~3 km from Old Market",
+      "accessibility": "Cambodian villas typically have 2+ ground-floor bedrooms and level garden/pool access, but this is unconfirmed — message host via Vrbo to confirm a step-free ground-floor bedroom and bathroom for the grandmother's scooter before booking",
+      "booking_url": "https://www.vrbo.com/7895945ha",
+      "tour_url": null,
+      "image_urls": []
+    },
+    {
+      "name": "Private Holiday Villa with Pool, 5 Full Bedrooms",
+      "type": "Private villa (entire home, 5BR)",
+      "tier": "comfort",
+      "sleeps": 10,
+      "nightly_usd": 320,
+      "rate_status": "estimated (Agoda listing verified live; comparable 5BR Siem Reap pool villas list $220-400 in Dec-Feb peak)",
+      "fits_9": "5 real bedrooms + private pool for a fraction of hotel cost; ideal 3-couples + kids split with a room to spare",
+      "accessibility": "Two-storey layout typical — confirm with host via Agoda chat that at least one bedroom + bathroom is ground-floor and doorways fit a mobility scooter",
+      "booking_url": "https://www.agoda.com/private-holiday-villa-with-pool-5-full-bedrooms/hotel/siem-reap-kh.html",
+      "tour_url": null,
+      "image_urls": []
+    },
+    {
+      "name": "Angkor Rendezvous (Private Pool Villa)",
+      "type": "Private villa (entire home)",
+      "tier": "comfort",
+      "sleeps": 10,
+      "nightly_usd": 400,
+      "rate_status": "estimated (Agoda listing verified live; free-cancellation rates shown at checkout for exact dates)",
+      "fits_9": "Entire private pool villa marketed to family groups; quiet residential setting with tuk-tuk access to town",
+      "accessibility": "Ground-level pool terrace; confirm ground-floor bedroom availability with host before booking",
+      "booking_url": "https://www.agoda.com/angkor-rendezvous-private-pool-villa/hotel/siem-reap-kh.html",
+      "tour_url": null,
+      "image_urls": []
+    },
+    {
+      "name": "Navutu Dreams Resort & Wellness Retreat (2x Grand Suite + 1x Tour Room)",
+      "type": "Resort - family suites (needs 3 units for 9)",
+      "tier": "comfort",
+      "sleeps": 10,
+      "nightly_usd": 550,
+      "rate_status": "estimated (rooms from ~$150-200/night in peak; Grand Suites = king bedroom + living room converting to 2nd twin bedroom, 100 sqm)",
+      "fits_9": "Four 2-bedroom Grand Suites on property, each sleeping a couple + 2 kids; 3 lagoon-style pools (one kids' pool), free tuk-tuk shuttle to town, very family-oriented staff",
+      "accessibility": "Single-storey suite buildings with garden-level entrances — no stairs to most Grand Suites; flat sandy-paved grounds are manageable by scooter; no elevator needed",
+      "booking_url": "https://navuturesorts.com/siem-reap/accommodation/",
+      "tour_url": null,
+      "image_urls": [
+        "https://navuturesorts.com/wp-content/uploads/2025/07/navutu-dreams-grand-tour-room-bed.jpg"
+      ]
+    },
+    {
+      "name": "Sofitel Angkor Phokeethra Golf & Spa Resort (3 rooms, Family Stay offer)",
+      "type": "5-star resort - connecting/adjacent rooms",
+      "tier": "comfort",
+      "sleeps": 10,
+      "nightly_usd": 600,
+      "rate_status": "estimated (rooms from $161 listed, Family Escape package from $259/night listed; Family Stay offer = 50% off 2nd room for under-16s; 3 rooms peak Dec-Feb ~ $550-700)",
+      "fits_9": "238 rooms so connecting Luxury Rooms are realistically available for 3-couple blocks even in peak season; huge free-form pool with kids' section, 6 restaurants, biggest gardens in town",
+      "accessibility": "Best big-hotel accessibility in Siem Reap: elevators, ramped flat resort grounds, ground-floor rooms on request, wheelchair-accessible facilities; easy scooter circulation",
+      "booking_url": "https://www.sofitel-angkor-phokeethra.com/offers/family-stay-offer/",
+      "tour_url": null,
+      "image_urls": [
+        "https://d2e5ushqwiltxm.cloudfront.net/wp-content/uploads/sites/104/2024/05/06110455/SAP-Family-Stay-offer-website-banner.png"
+      ]
+    },
+    {
+      "name": "Templation Angkor (3-Bedroom Pool Villa + Junior Suite)",
+      "type": "Resort - private 3BR pool villa + extra suite",
+      "tier": "comfort",
+      "sleeps": 10,
+      "nightly_usd": 600,
+      "rate_status": "estimated (1BR pool villas ~ $358 listed by reviewers; 3BR Pool Villa 130 sqm sleeps 6-8 with extra beds + a Junior Suite for remaining couple ~ $550-750 peak)",
+      "fits_9": "3BR villa (king + 2 flexible twin/king rooms, all with sofa beds) holds 8, junior suite takes the last couple; private 7.5m pool, floating-tray breakfast, closest resort to Angkor park (4 km from Angkor Wat)",
+      "accessibility": "Villas are ground-level garden pavilions — step-free terraces and gardens; gravel paths in places, ask for villa nearest reception for smoothest scooter route",
+      "booking_url": "https://www.templation.asia/suites-and-villas/3-bedroom-pool-villa/",
+      "tour_url": null,
+      "image_urls": [
+        "https://www.livingcambodia.asia/m/i/media/templation/entries/accommodation/3-bedroom-pool-villa/32457/2_cc3ccc50a35132fb51a45b8bbfcba9f0.jpg"
+      ]
+    },
+    {
+      "name": "Raffles Grand Hotel d'Angkor (Two-Bedroom Royal Villa + 1-2 Landmark Rooms)",
+      "type": "5-star heritage grand hotel",
+      "tier": "premium",
+      "sleeps": 12,
+      "nightly_usd": 1900,
+      "rate_status": "estimated (rooms from $435 listed, avg $366; 318 sqm 2BR Royal Villa sleeps 6 - villa + 2 rooms peak Dec-Feb ~ $1,600-2,200; 3rd-night-free promo runs to end Dec 2026)",
+      "fits_9": "2BR Royal Villa (318 sqm, king + 2 twins, max 6) for grandparents + one family, Landmark Rooms (max 3 each) for the other couples; 1932 landmark 5 min from town, vast 35m pool, kids stay free policies via Accor",
+      "accessibility": "Wheelchair-accessible facilities confirmed by Accor; famous 1929 birdcage elevator plus modern lifts; ground-floor Royal Villa has private step-free entrance; flat manicured gardens ideal for a scooter",
+      "booking_url": "https://all.accor.com/hotel/A5D9/index.en.shtml",
+      "tour_url": null,
+      "image_urls": [
+        "https://www.ahstatic.com/photos/a5d9_ho_00_p_1024x768.jpg"
+      ]
+    },
+    {
+      "name": "Park Hyatt Siem Reap (Two Bedroom Pool Suite + 2 Park Rooms)",
+      "type": "5-star hotel - suite + connecting rooms",
+      "tier": "premium",
+      "sleeps": 10,
+      "nightly_usd": 1600,
+      "rate_status": "estimated (standard rooms $300-500+ listed in Dec-Jan peak; 182 sqm 2BR Pool Suite with private plunge pool ~ $900-1,100 + 2 rooms)",
+      "fits_9": "2BR Pool Suite (2 en-suite bedrooms, 2 living areas, plunge pool) for grandparents + toddler family; connecting Park Rooms for the other couples; downtown location = 3-min walk to Old Market/Pub Street, 15 min to temples",
+      "accessibility": "Modern build with elevators to all floors and ADA-style accessible rooms; step-free lobby and pool deck; the most scooter-friendly luxury option in the town center",
+      "booking_url": "https://www.hyatt.com/park-hyatt/en-US/repph-park-hyatt-siem-reap",
+      "tour_url": null,
+      "image_urls": []
+    },
+    {
+      "name": "Jaya House RiverPark (4 rooms incl. Pool Suites)",
+      "type": "5-star boutique hotel - 4 rooms",
+      "tier": "premium",
+      "sleeps": 10,
+      "nightly_usd": 1250,
+      "rate_status": "listed (Deluxe $290, Junior Suite $310, Pool Suite $345 per night, 2026 published rates; 4 rooms ~ $1,160-1,380)",
+      "fits_9": "36-room plastic-free boutique famous for near-1:1 staff ratio; 4 rooms in a block, 2 pools, free tuk-tuk service and daily spa treatment included; riverside 10 min from temples",
+      "accessibility": "Elevator + ground-floor rooms available; compact flat grounds easy for a scooter; staff routinely arrange accessible transport - flag the scooter at booking",
+      "booking_url": "https://www.jayahouseriverparksiemreap.com/",
+      "tour_url": null,
+      "image_urls": [
+        "https://cdn.prod.website-files.com/5e3a3ff2644c74c2e396b251/602b2203766fd577797952c3_jaya3190__50777468961_o.jpeg"
+      ]
+    },
+    {
+      "name": "Zannier Phum Baitang (4x Pool Villa)",
+      "type": "Luxury villa resort - 4 stilted pool villas",
+      "tier": "premium",
+      "sleeps": 12,
+      "nightly_usd": 2600,
+      "rate_status": "estimated (villas from ~$249 low season listed; pool villas in Dec-Feb peak run $550-750 each; 4 villas for 9 people ~ $2,200-3,000)",
+      "fits_9": "45-villa 'green village' among 8 acres of rice paddies; each pool villa sleeps 2 adults + up to 2 children (king + sofa bed) with private plunge pool - 4 villas covers the whole family in style",
+      "accessibility": "CAUTION: villas are traditional stilted Khmer houses reached by STAIRS - not suitable for the grandmother's mobility scooter without assistance; resort paths are boardwalk/gravel; ask for the few ground-level accessible units or choose Raffles/Park Hyatt/Sofitel instead if step-free is non-negotiable",
+      "booking_url": "https://www.zannierhotels.com/hotels/phum-baitang/accommodation/pool-villas/",
+      "tour_url": null,
+      "image_urls": [
+        "https://www.zannierhotels.com/wp-content/uploads/2025/01/16x9-image.jpg"
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "name": "Angkor Archaeological Park Pass (official Angkor Enterprise)",
+      "price_pp_usd": 37,
+      "rate_status": "listed ($37 1-day / $62 3-day / $72 7-day; children under 12 FREE with passport - only 4 of your 9 kids/teens pay: the 15-year-old pays adult rate, 7-year-old and toddler free)",
+      "ages": "All ages; under-12 free; children not allowed on Angkor Wat upper tower",
+      "accessibility": "Buy online (photo needed for 3/7-day) or drive-through ticket office on Road 60 - no walking required to purchase",
+      "booking_url": "https://www.angkorenterprise.gov.kh/"
+    },
+    {
+      "name": "Angkor Wat sunrise + temples tour, private A/C minivan (small-group option ~$35pp)",
+      "price_pp_usd": 20,
+      "rate_status": "listed (private full-day A/C van tours $148-248 total for up to 9-10 pax = ~$17-27pp; small-group seats ~$30-45pp)",
+      "ages": "All ages - van format suits toddler + grandmother; sunrise start ~4:45am, consider splitting the group",
+      "accessibility": "Book PRIVATE VAN (not tuk-tuk) so the scooter travels in the boot; Angkor Wat ground level reachable via causeway ramps, Bayon lower terraces via smoother east entrance, Ta Prohm mostly flat jungle paths with wooden boardwalks; upper tiers of all temples are steps-only",
+      "booking_url": "https://www.getyourguide.com/siem-reap-l274/small-group-sun-rise-angkor-wat-day-tour-guide-t481140/"
+    },
+    {
+      "name": "Cambodia Wheelchair Rental / accessible temple day (Angkor Transport Services)",
+      "price_pp_usd": 60,
+      "rate_status": "listed ($60 for full 8-hour day including wheelchair + personal assistant; book online, pay later, free cancellation 24h)",
+      "ages": "Designed for reduced-mobility guests - ideal add-on for grandmother; family rides alongside in van/tuk-tuks",
+      "accessibility": "Purpose-built accessible service; assistant helps at temple thresholds; pairs with Roll In Asia accessible itineraries (rollinasia-travel.com) for multi-day planning",
+      "booking_url": "https://happytovisit.com/cambodia-wheelchair-rental/"
+    },
+    {
+      "name": "Phare, The Cambodian Circus (evening show)",
+      "price_pp_usd": 28,
+      "rate_status": "listed (Section A $38 adult/$18 child 5-11; B $28/$15; C $18/$10; under-5 free - toddler free, 7yo child rate, 15yo adult rate)",
+      "ages": "All ages - 8pm nightly, plus 5pm matinees Wed/Fri/Sun Nov 2026-Mar 2027 (better for the toddler and grandmother)",
+      "accessibility": "Ground-level big-top venue with flat dirt/paved entry - scooter can park beside Section A seats; email ticketing@pharecircus.org to reserve accessible spot",
+      "booking_url": "https://pharecircus.org/tickets/"
+    },
+    {
+      "name": "Tonle Sap - Kampong Phluk stilted village & flooded forest sunset boat tour",
+      "price_pp_usd": 26,
+      "rate_status": "listed (group tours $16-26pp incl. hotel pickup + boat; private boat upgrade ~$100 total; Dec-Feb = good water levels)",
+      "ages": "Great for 7+ and teens; toddler OK on calm big boats with life vest; 4-5 hour outing",
+      "accessibility": "NOT scooter-friendly - boat boarding is via steep bank steps/floating docks; grandmother can ride the van and enjoy the dockside, or skip this one",
+      "booking_url": "https://happytovisit.com/siem-reap-tonle-sap-kampong-phluk-floating-village-tour/"
+    },
+    {
+      "name": "APOPO Visitor Center (HeroRATs landmine-detection tour)",
+      "price_pp_usd": 10,
+      "rate_status": "listed ($10 adult, children under 10 FREE; tours every 30 min, 8:30am-5pm daily, ~1 hour)",
+      "ages": "Brilliant for the 7-year-old and teens (you hold a giant rat); educational Cambodia history for adults",
+      "accessibility": "Single-level, shaded exhibit hall and seating - flat compound suits the mobility scooter; 10-15 min from town",
+      "booking_url": "https://booking.apopo.org/events"
+    },
+    {
+      "name": "Siem Reap Countryside Cooking Class (market visit + Khmer cooking)",
+      "price_pp_usd": 24,
+      "rate_status": "listed ($24pp official site; comparable Lily's Secret Garden class $25pp; morning 7:30-12:00 or afternoon 1:30-6:00)",
+      "ages": "Hands-on and kid-friendly - 7yo can make spring rolls; private family session bookable for the group of 9",
+      "accessibility": "Ground-level open-air village kitchen; request the van pickup and confirm flat access when reserving",
+      "booking_url": "https://www.srcountrysidecookingclass.com/"
+    },
+    {
+      "name": "Angkor sunrise & temples e-bike tour (teens + parents)",
+      "price_pp_usd": 35,
+      "rate_status": "listed (~$29-31 group tour without lunch, ~$38-45 with lunch/breakfast; Giant e-bikes, guide, helmets, pickup included)",
+      "ages": "Minimum ~12yo/150cm - perfect for the 15-year-old + parents while grandparents/toddler do the van tour",
+      "accessibility": "Not applicable for scooter user; flat quiet park roads, e-assist makes it easy in Dec-Feb cool season",
+      "booking_url": "https://www.getyourguide.com/siem-reap-l274/from-siem-reap-angkor-wat-sunrise-and-temples-e-bike-tour-t430367/"
+    },
+    {
+      "name": "Angkor Gondola sunset boat ride on Angkor Thom moat (Kongkear Angkor)",
+      "price_pp_usd": 15,
+      "rate_status": "listed ($15pp standard ride; $54pp sunset package with canapes + drinks; ~1-2.5h; requires valid Angkor pass; book direct +855 63 655 0 655)",
+      "ages": "All ages, calm flat water - lovely multi-gen golden-hour activity",
+      "accessibility": "Dock is a few steps down to the boat - staff assist transfers; scooter waits at the jetty; easier boarding than Tonle Sap",
+      "booking_url": "https://www.tripadvisor.com/Attraction_Review-g297390-d7187099-Reviews-Kongkear_Angkor-Siem_Reap_Siem_Reap_Province.html"
+    }
+  ],
+  "notes": "PEAK SEASON: Dec-Feb is Siem Reap's dry, cool high season - book accommodation 6-9 months ahead (i.e., by ~Apr-Jun 2026) for the best villa inventory; expect 20-40% above shoulder-season rates (reflected above). ACCESSIBILITY BIG PICTURE: Siem Reap is one of SE Asia's more doable temple towns for a mobility scooter IF you use a private A/C van (not tuk-tuks) - Angkor Wat's ground enclosure is reachable via the causeway ramps, Bayon's lower terraces via the smoother east approach, and Ta Prohm has flat jungle paths with wooden boardwalks; ALL upper temple tiers are steep steps and off-limits to wheels. Cambodia Wheelchair Rental ($60/day incl. assistant) and Roll In Asia are the two established accessible operators. Sofitel, Park Hyatt and Raffles are the most reliably step-free stays (elevators/ground-floor rooms); Phum Baitang's stilted villas are the accessibility trap to avoid. VERIFICATION CAVEATS: All booking URLs returned HTTP 200 with a browser user-agent EXCEPT: Vrbo listing (7895945ha) returned 429 rate-limit to bots but is a live listing surfaced by Vrbo's own search (8BR, sleeps 16, ~$440/night avg); GetYourGuide and hyatt.com return 403 to bots (Cloudflare) but URLs come from their live indexed inventory. Airbnb was skipped per bot-block guidance - the same 8BR/5BR villas appear on Vrbo/Agoda. PRICING KEY: 'listed' = price published on a live page/snippet at research time (Jul 2026); 'estimated' = triangulated from published base rates + typical Dec-Feb peak uplift; re-quote exact dates at booking. BUDGET REALITY CHECK: comfort tier villas ($300-600 total/night) comfortably beat hotels on space for 9; the premium hotels require 3-4 rooms/a villa+rooms combo and land $1,200-2,600/night. Angkor pass math for this family: 7 payers (6 adults + the 15yo; the 7yo and 1yo enter free) - 3-day pass x7 = $434."
+}

@@ -33,7 +33,7 @@ VO = lambda n: f"{ROOT}/vo/{n}.wav"
 
 SECTIONS = ["01_cold_open","02_the_specimens","03_criteria","04_vietnam_arrival",
     "05_vietnam_food","06_vietnam_pricing","07_cambodia","08_thailand",
-    "09_china_arrival","10_china_activities","11_verdict","12_closing"]
+    "09_china_arrival","10_china_activities","11_verdict","13_booking_file","12_closing"]
 vod = {s: dur(VO(s)) for s in SECTIONS}
 
 # shot = (kind, src, plan_dur, opt)
@@ -97,6 +97,17 @@ PLAN = {
 "11_verdict": [
     ("kb", I("infographic_14_final_comparison"), 22.0, "zi"),
     ("kb", I("infographic_15_why_china_wins"), 17.0, "zo")],
+"13_booking_file": [
+    ("kb", f"{ROOT}/card_booking_vietnam.png", 13.0, "zi"),
+    ("kb", f"{ROOT}/prop_imgs/pearl_villa.jpg", 8.0, "pl"),
+    ("kb", f"{ROOT}/card_booking_cambodia.png", 13.0, "zo"),
+    ("kb", f"{ROOT}/card_booking_thailand.png", 13.0, "zi"),
+    ("kb", f"{ROOT}/prop_imgs/naturalvillas_cm.webp", 8.0, "pr"),
+    ("kb", f"{ROOT}/prop_imgs/shangrila_cm.jpg", 7.0, "zi"),
+    ("kb", f"{ROOT}/card_booking_china.png", 13.0, "zo"),
+    ("kb", f"{ROOT}/prop_imgs/rosewood_pool.jpg", 8.0, "pl"),
+    ("kb", f"{ROOT}/prop_imgs/ascott_bj.jpg", 7.0, "zi"),
+    ("kb", f"{ROOT}/prop_imgs/chatrium_suite.jpg", 8.0, "pr")],
 "12_closing": [
     ("vid", S("bangkok_lights"), 12.0, 20),
     ("vid", S("great_wall_mixkit"), 7.0, 0),
@@ -123,7 +134,8 @@ def render_shot(kind, src, d, opt, fade_in=0.0, fade_out=0.0):
     if kind == "kb":
         frames = int(round(d*FPS))
         zp = KB[opt].replace("D", str(frames))
-        vf = (f"scale=3072:2048,zoompan={zp}:d={frames}:s={W}x{H}:fps={FPS},"
+        vf = (f"scale=3072:2048:force_original_aspect_ratio=increase,crop=3072:2048,"
+              f"zoompan={zp}:d={frames}:s={W}x{H}:fps={FPS},"
               f"format=yuv420p,setsar=1{fades}")
         cmd = ["ffmpeg","-y","-loop","1","-i",src,"-t",f"{d:.3f}","-vf",vf,
                "-an","-c:v","libx264","-preset","veryfast","-crf","18",out]
@@ -199,7 +211,7 @@ lenC = TOTAL - t_china           # Impact Prelude to end
 fl = [
  f"[0:a]aresample=48000,atrim=duration={lenA},afade=t=in:d=1.5,afade=t=out:st={lenA-3}:d=3,volume=0.13[m0]",
  f"[1:a]aloop=loop=-1:size=2e9,aresample=48000,atrim=duration={lenB},afade=t=in:d=3,afade=t=out:st={lenB-3}:d=3,volume=0.11[m1]",
- f"[2:a]aresample=48000,atrim=duration={lenC},afade=t=in:d=2,afade=t=out:st={lenC-5}:d=5,volume=0.14[m2]",
+ f"[2:a]aloop=loop=-1:size=2e9,aresample=48000,atrim=duration={lenC},afade=t=in:d=2,afade=t=out:st={lenC-5}:d=5,volume=0.14[m2]",
  "[m0][m1][m2]concat=n=3:v=0:a=1[mus]",
 ]
 run(["ffmpeg","-y","-i",f"{M}/Prelude_and_Action.mp3","-i",f"{M}/Ascending_the_Vale.mp3",
